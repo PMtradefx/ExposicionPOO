@@ -1,0 +1,14 @@
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\bin\Debug\net8.0\macbookm4.exe
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\bin\Debug\net8.0\macbookm4.deps.json
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\bin\Debug\net8.0\macbookm4.runtimeconfig.json
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\bin\Debug\net8.0\macbookm4.dll
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\bin\Debug\net8.0\macbookm4.pdb
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.AssemblyInfo.cs
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.dll
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\refint\macbookm4.dll
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.pdb
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\macbookm4.genruntimeconfig.cache
+C:\Users\ASUS TUF F15\Documents\Documentos Uleam\3er semestre\POO\2doParcial\expo\macbookm4\obj\Debug\net8.0\ref\macbookm4.dll

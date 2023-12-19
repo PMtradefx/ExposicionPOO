@@ -1,0 +1,10 @@
+﻿ var macBookM4 = new MacBookM4();
+        var cliente = new Observador ("Oscar Pérez");
+        var cliente1 = new Observador ("Jonathan Lopez");
+        var cliente2 = new Observador ("Erika Segovia");
+        var cliente3 = new Observador ("Nathaly Barcia");
+        macBookM4.RegistrarObservador(cliente);
+        macBookM4.RegistrarObservador(cliente1);
+        macBookM4.RegistrarObservador(cliente2);
+        macBookM4.RegistrarObservador(cliente3);
+        macBookM4.Disponible = true;
